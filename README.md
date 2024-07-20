@@ -1,1 +1,1 @@
-# Amazon_Review_Sentiment_Analysis_MODEL
+# Amazon_Review_Sentiment_Analysis_Model
